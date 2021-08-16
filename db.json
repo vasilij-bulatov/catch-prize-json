@@ -11,7 +11,11 @@
          "linkParticipation":"url",
          "socialNetwork":"vk",
          "isLiked":"false",
-         "mostWanted":"true"
+         "mostWanted":"true",
+         "contacts":[
+            "vk.com/fdfd",
+            "gmal.com/fdfd"
+         ]
       },
       {
          "id":"2",
@@ -23,7 +27,11 @@
          "linkParticipation":"url",
          "socialNetwork":"youtube",
          "isLiked":"false",
-         "mostWanted":"true"
+         "mostWanted":"true",
+         "contacts":[
+            "vk.com/fdfd",
+            "gmal.com/fdfd"
+         ]
       },
       {
          "id":"3",
@@ -47,7 +55,11 @@
          "linkParticipation":"url",
          "socialNetwork":"instagram",
          "isLiked":"false",
-         "mostWanted":"true"
+         "mostWanted":"true",
+         "contacts":[
+            "vk.com/fdfd",
+            "gmal.com/fdfd"
+         ]
       },
       {
          "id":"5",
@@ -59,7 +71,11 @@
          "linkParticipation":"url",
          "socialNetwork":"vk",
          "isLiked":"false",
-         "mostWanted":"true"
+         "mostWanted":"true",
+         "contacts":[
+            "vk.com/fdfd",
+            "gmal.com/fdfd"
+         ]
       }
    ],
    "orgRequests":[
