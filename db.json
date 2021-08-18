@@ -4,7 +4,7 @@
       {
          "id":"1",
          "org":"Star Wars",
-         "date":"20.12.2021",
+         "date":"27.8.2021",
          "prizes":"Наушникиffff ffffffffffffffff fffffffffffffff ffffffffffff ffffffffffff",
          "imageUri":"https://reactnative.dev/img/tiny_logo.png",
          "fullDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
@@ -20,7 +20,7 @@
       {
          "id":"2",
          "org":"Star Wars",
-         "date":"20.12.2021",
+         "date":"1.09.2021",
          "prizes":"Наушникgfgи",
          "imageUri":"https://reactnative.dev/img/tiny_logo.png",
          "fullDescription":"https://reactnative.dev/img/tiny_logo.png Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
